@@ -1,0 +1,40 @@
+body {
+}
+.page-container {
+  max-width: 1100px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+}
+
+.stats-header {
+  text-align: center;
+}
+.header-container {
+  text-align: left;
+}
+.stats-container {
+  width: 50%;
+  float: left;
+  text-align: left;
+}
+
+.player-team-header h3 {
+  margin-top: 5px;
+  font-size: 20px;
+  text-align: center;
+  overflow: hidden;
+}
+.player-team-header a {
+  padding-bottom: 3px;
+  text-decoration: none;
+}
+.stats-container a > h3:hover {
+  border-bottom: 2px solid blue;
+  margin-bottom: -2px;
+}
+
+.leaders {
+  margin-top: 15px;
+}

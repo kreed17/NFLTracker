@@ -1,0 +1,20 @@
+body {
+}
+
+.home-container {
+  display: table;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.schedule-header {
+  font-size: xx-large;
+  margin-top: 40px;
+  /* font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif Roboto; */
+}
+.schedule li {
+  font-size: xx-large;
+  margin-top: 10px;
+  list-style-type: none;
+  font-family: Roboto;
+}

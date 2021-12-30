@@ -1,0 +1,39 @@
+.topnav {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: Roboto;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.brand {
+  float: left;
+  background-color: rgb(27, 47, 221);
+  font-size: x-large;
+  color: white;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.nfl-logo {
+  height: 60px;
+
+  margin: 0 auto;
+  float: none;
+  position: absolute;
+  left: 50%;
+}

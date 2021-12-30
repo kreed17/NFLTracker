@@ -1,0 +1,9 @@
+.body {
+  margin: 0;
+  font-family: Roboto;
+  background-image: linear-gradient(black, blue);
+}
+
+.team-logo {
+  height: 30px;
+}

@@ -1,0 +1,20 @@
+.stats__table {
+  width: 97%;
+  border-top: 1px solid;
+  margin-bottom: 30px;
+  border-bottom: 0.5px solid;
+}
+
+.name {
+  width: 80%;
+}
+
+.data {
+  width: 30%;
+}
+
+.team_logo {
+  object-fit: contain;
+  width: 40px;
+  height: 40px;
+}
